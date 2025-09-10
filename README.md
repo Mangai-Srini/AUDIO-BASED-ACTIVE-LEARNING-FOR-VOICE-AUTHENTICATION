@@ -1,0 +1,2 @@
+# AUDIO-BASED-ACTIVE-LEARNING-FOR-VOICE-AUTHENTICATION
+This project addresses the critical challenge of secure voice-based authentication in an era of increasing digital security threats. Traditional voice authentication systems require large amounts of labeled training data and often struggle with uncertainty quantification, leading to security vulnerabilities and high false positive/negative rates.
